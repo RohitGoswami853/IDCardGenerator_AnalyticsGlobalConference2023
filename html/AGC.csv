@@ -1,0 +1,316 @@
+ID,NAME,CATEGORY
+O001,Prof Suparna Dhar,ORGANISER
+O002,Prof Ashutosh Kar,ORGANISER
+O003,Prof Humaira Aslam,ORGANISER
+O004,Prof Jayanta Das,ORGANISER
+O005,Prof Madhurima Paul,ORGANISER
+O006,Prof Majid Mallik,ORGANISER
+O007,Prof Md Sharib,ORGANISER
+O008,Prof Moumita Roy,ORGANISER
+O009,Prof Partha Sarathi Chatterjee,ORGANISER
+O010,Prof Pratyay Ranjan Datta,ORGANISER
+O011,Prof Sangita Mazumder,ORGANISER
+O012,Prof Sanjay Goswami,ORGANISER
+O013,Prof Sanjay Kumar Pal,ORGANISER
+O014,Prof Swapan Das,ORGANISER
+O015,Mr. Cecil Antony,ORGANISER
+O016,Mr. Rishav Antony,ORGANISER
+O017,Prof Krishnendu Sarkar,ORGANISER
+O018,Prof Dinesh Kumar,ORGANISER
+O019,Prof Indranil Bose,ORGANISER
+O020,Mr. Ambarish Dasgupta,ORGANISER
+S001,Prof Arpan Kar,SPEAKER
+S002,Prof Sumanta Basu,SPEAKER
+S003,Prof Shipra Dasbit,SPEAKER
+S004,Prof Chandan Majumdar,SPEAKER
+S005,Prof Rameshwar Dubey,SPEAKER
+S006,Dr. Amritendu Mukherjee,SPEAKER
+S007,Ms. Abirami Sukumaran,SPEAKER
+S008,Dr. Anshuman Saha,SPEAKER
+S009,Prof Amlan Chakraborty,SPEAKER
+S010,Mr. Sanjay Das,SPEAKER
+S011,Dr. Sumit Misra,SPEAKER
+S012,Prof Aditya Bagchi,SPEAKER
+S013,Prof Probal Chaudhuri,SPEAKER
+S014,Ms. Soma Banerjee,SPEAKER
+S015,Mr. Arghya Mandal,SPEAKER
+S016,Mr. Dhrubajyoti De,SPEAKER
+S017,Mr. Ayan Ray,SPEAKER
+S018,Dr. Amit Kumar Das,SPEAKER
+S019,Mr. Sudipta Sen,SPEAKER
+S020,Mr. Subhamoy Chakraborti,SPEAKER
+S021,Mr. Sudip Mazumder,SPEAKER
+S022,Mr. Kamal Ajitsaria,SPEAKER
+S023,Mr. Niupam Chaudhury,SPEAKER
+S024,Mr. Aditya P Dutta,SPEAKER
+S025,Mr. Tanushyam Chattopadhyay,SPEAKER
+S026,Mr. Milind Swaroop,SPEAKER
+S027,Mr. Jaydeep Sarkar,SPEAKER
+S028,Mr. Sudipta Ghosh,SPEAKER
+S029,Dr. Indranil Mitra,SPEAKER
+S030,Mr. Prasun Nandy,SPEAKER
+S031,Mr. Dattatreya Datta ,SPEAKER
+S032,Prof Pinakpani Pal,SPEAKER
+S033,Dr. Deepankar Sinha,SPEAKER
+S023,Mr. Nirupam Chaudhury,SPEAKER
+S035,Dr. Anup K. Ghosh,SPEAKER
+S036,Dr. Gautam Kulsi,SPEAKER
+S037,Dr. Adrija Majumdar,SPEAKER
+V003,Saikat Dutta,VOLUNTEER
+V004,Saanvi Bhattacharya,VOLUNTEER
+V005,Shakshi Singh,VOLUNTEER
+V006,Deblina Das,VOLUNTEER
+V007,Tapabrata Roy,VOLUNTEER
+V008,Rahul Bhowmik,VOLUNTEER
+V009,Prithwish Sarkar,VOLUNTEER
+V010,Neha Sinha,VOLUNTEER
+V011,Joon Paul,VOLUNTEER
+V012,Sabyasachi Kar,VOLUNTEER
+V013,Joshit Naik,VOLUNTEER
+V014,Anisha Dhar,VOLUNTEER
+V015,Arun Kumar,VOLUNTEER
+V016,Rohit Goswami,VOLUNTEER
+V017,Saraswan Chakraborty,VOLUNTEER
+V018,Jayshree Agarwal,VOLUNTEER
+V019,Abhik Chowdhury,VOLUNTEER
+V020,Koyel Sinha,VOLUNTEER
+V021,Disha Singhi,VOLUNTEER
+V022,Barnali Dutta,VOLUNTEER
+V023,Shraboni Ghosh,VOLUNTEER
+V024,Soumyadeep Dutta,VOLUNTEER
+V025,Ashis Kumar Behera,VOLUNTEER
+V026,Kareena Jaiswal,VOLUNTEER
+V027,Arpita Maitra,VOLUNTEER
+V028,Prince Mahakud,VOLUNTEER
+V029,Koustav Santra,VOLUNTEER
+V030,Omkar Mitter,VOLUNTEER
+V031,Suvam Bannerjee,VOLUNTEER
+V032,Sakshi Shaw,VOLUNTEER
+V033,Subhradyuti Jana,VOLUNTEER
+V034,Soham Ghosh,VOLUNTEER
+V035,Samriddhi Das,VOLUNTEER
+V036,Abhrajit Bhattacharyya,VOLUNTEER
+V037,Shubhrajit Bhattacharyya,VOLUNTEER
+V038,Siddhanta Pramanik,VOLUNTEER
+V039,Aniket Ray,VOLUNTEER
+V040,Debaneek Saha,VOLUNTEER
+V041,Sayantan Pal,VOLUNTEER
+V042,Moumita Mitra,VOLUNTEER
+D001,Mr. Arnab Roy,DELEGATE
+D002,Prof Amartya Banerjee,DELEGATE
+D003,Prof Subir Sen,DELEGATE
+D004,Prof Subhasis Maity,DELEGATE
+D005,Prof Milind,DELEGATE
+D006,Prof Alok Satsangi,DELEGATE
+D007,Prof Saujanya Pudi,DELEGATE
+D008,Prof Rina Mitra,DELEGATE
+D009,Prof Tarun Saini,DELEGATE
+D010,Prof Sapptarshi Ghosh,DELEGATE
+D011,Mr. Jayanta Bagchi,DELEGATE
+D012,Ms. Sanjukta Roy,DELEGATE
+D013,Mr. Rajib Sarkar,DELEGATE
+D014,Mr. Janakraj Gupta,DELEGATE
+D015,Mr. Vivek Dudheria,DELEGATE
+D016,Mr. Ramkrishna Ray,DELEGATE
+D017,Ms. Srijaya Dutta,DELEGATE
+D018,Mr. Supriyo Jana,DELEGATE
+D019,Mr. Sanjeev Mitra,DELEGATE
+D020,Mr. Kunal Bhattacharya,DELEGATE
+D021,Mr. Sajal Motilal,DELEGATE
+D022,Mr. Kaushik Rana,DELEGATE
+D023,Prof Bijoy Mondol,DELEGATE
+D024,Prof Sarit Bhattacharya,DELEGATE
+D025,Prof Debanjan Banerjee,DELEGATE
+D026,Prof Maqsood Alam,DELEGATE
+D027,Prof Nilanjana Sinha,DELEGATE
+D028,Prof Prashant Karn,DELEGATE
+D029,Prof Reeti Debnath,DELEGATE
+D030,Prof Anwar Ali,DELEGATE
+D031,Prof Sharad Seth,DELEGATE
+D032,Mr. Raj Jain,DELEGATE
+D033,Mr. Subhasis Sarkar,DELEGATE
+D034,Ms. Anindita Dasgupta,DELEGATE
+D035,Prof Rajat De,DELEGATE
+D036,Souraj Chakraborty ,DELEGATE
+D037,Riddhiman Syed,DELEGATE
+D038,Khadija Aslam ,DELEGATE
+D039,Kheyalee Das,DELEGATE
+D040,Sk Mustafa Mondal,DELEGATE
+D041,Debopriya Saha,DELEGATE
+D042,Tamoleen Ray,DELEGATE
+D043,Devyansh Beel,DELEGATE
+D044,Raima Bhagat,DELEGATE
+D045,Subhayu Ganguly,DELEGATE
+D046,Riya Ghosh,DELEGATE
+D047,ANNESHA KUNDAL,DELEGATE
+D048,Tuhin Banerjee,DELEGATE
+D049,Jaitri Dutta,DELEGATE
+D050,Arka Sasmal,DELEGATE
+D051,Suvrajyoti Paul,DELEGATE
+D052,SHRUTI KUMARI,DELEGATE
+D053,Sachin Santikari,DELEGATE
+D054,Akash deep sardar,DELEGATE
+D055,Ronit Chakraborty,DELEGATE
+D056,Sandipon Das,DELEGATE
+D057,Piu Panda,DELEGATE
+D058,Iman Sur,DELEGATE
+D059,Debayan Sutradhar,DELEGATE
+D060,Pranab Ghosh,DELEGATE
+D061,Saman Rahman,DELEGATE
+D062,Subhajit Manna,DELEGATE
+D063,Rohit Dutta,DELEGATE
+D064,obada saquib,DELEGATE
+D065,Belal akbar mansoori,DELEGATE
+D066,Rahul Shaw,DELEGATE
+D067,Spandan Dey,DELEGATE
+D068,Tejash Roy,DELEGATE
+D069,Satyam Pal,DELEGATE
+D070,Rahul yadav,DELEGATE
+D071,Soumabrata Sain,DELEGATE
+D072,Avijit Pal,DELEGATE
+D073,Rittik Majumdar,DELEGATE
+D074,RITURAJ CHAKRABORTY,DELEGATE
+D075,Sumaiya Parvin,DELEGATE
+D076,Barnisha Bhattacharjee,DELEGATE
+D077,Shubham Kumar,DELEGATE
+D078,Ritwik Das,DELEGATE
+D079,Simran Banerjee,DELEGATE
+D080,Aritra Pal,DELEGATE
+D081,BHOLANATH KHATICK,DELEGATE
+D082,Gulson Kumar Mishra,DELEGATE
+D083,Abhishek Roy,DELEGATE
+D084,Rishav Guha,DELEGATE
+D085,Mohar Tewari,DELEGATE
+D086,Amisha Das,DELEGATE
+D087,Shankha Thakurata,DELEGATE
+D088,Mohsin Ansari,DELEGATE
+D089,Debarshi Bera,DELEGATE
+D090,SAYEM SALIM,DELEGATE
+D091,prashant prasad,DELEGATE
+D092,Abhishek Kumar,DELEGATE
+D093,Sampujan Goswami,DELEGATE
+D094,Rebortak Roy,DELEGATE
+D095,Lavkush Kumar,DELEGATE
+D096,Hrishita Sahoo,DELEGATE
+D097,Ankan Kumar Daw,DELEGATE
+D098,Swaraj Sengupta,DELEGATE
+D099,Shivam Kumar,DELEGATE
+D100,Rajat Kumar Halder,DELEGATE
+D101,Sumit Kumar Biswas,DELEGATE
+D102,Purnendu Thokdar,DELEGATE
+D103,Poulomi Samanta,DELEGATE
+D104,Khushi bhagat,DELEGATE
+D105,Dipannita Hira,DELEGATE
+D106,Sayantan patra,DELEGATE
+D107,Gulfam Hossain,DELEGATE
+D108,Sachin Thakur,DELEGATE
+D109,Biki Bhowal,DELEGATE
+D110,Suraj Karaya,DELEGATE
+D111,Debanjan Paul,DELEGATE
+D112,kaushik halder,DELEGATE
+D113,SHAHFAHAD NOOR,DELEGATE
+D114,Sagnik Kar,DELEGATE
+D115,Kouritra Das,DELEGATE
+D116,Sutapa Baidya,DELEGATE
+D117,HIMTESH PRAJAPATI,DELEGATE
+D118,Md. Kaif,DELEGATE
+D119,Malabika Ghosh,DELEGATE
+D120,Sneha hazra,DELEGATE
+D121,Prabhakar Naskar,DELEGATE
+D122,Amit Kumar,DELEGATE
+D123,Dolly Sharma,DELEGATE
+D124,Nancy gupta,DELEGATE
+D125,Sneham Snehi,DELEGATE
+D126,Roshni sah,DELEGATE
+D127,ARPITA CHAUDHURY,DELEGATE
+D128,Sreejoy Das,DELEGATE
+D129,krishnendu guin,DELEGATE
+D130,Dia Sarkar,DELEGATE
+D131,Shayan Das,DELEGATE
+D132,Shivam Durga,DELEGATE
+D133,Debjit Kundu,DELEGATE
+D134,Kaushik Modak,DELEGATE
+D135,Swarnava Dhar,DELEGATE
+D136,Arnab Chakraborty,DELEGATE
+D137,Madhurima Chaudhuri,DELEGATE
+D138,Sumit Ekka,DELEGATE
+D139,Md. Motim,DELEGATE
+D140,Abhirup Batabyal,DELEGATE
+D141,Bikram Mandi,DELEGATE
+D142,Srabani Kar,DELEGATE
+D143,Sudipta banik,DELEGATE
+D144,Debraj Dey,DELEGATE
+D145,Ankan Das,DELEGATE
+D146,Tarannum Mahtab,DELEGATE
+D147,Preeti Saha,DELEGATE
+D148,Abhrajit Chakraborty,DELEGATE
+D149,Deeptesh Ghosh,DELEGATE
+D150,SUPRAVO CHAKRABORTY,DELEGATE
+D151,Dhaneshwar kumar,DELEGATE
+D152,PRITAM PRADHAN,DELEGATE
+D153,Amit Datta banik,DELEGATE
+D154,Prof Anwesha Roy Chaudhury,DELEGATE
+D155,Prof Saibal Chatterjee,DELEGATE
+D156,Prof Rajkumar Dasgupta,DELEGATE
+D157,Mr. Sunil S,DELEGATE
+D158,Mr. Sudip Lal,DELEGATE
+D159,Ms. Sriparna Dhar,DELEGATE
+D160,Prof Gautam Ganguly,DELEGATE
+D161,Mr. Gopal Sen,DELEGATE
+D162,Ms. Supriya Banerjee,DELEGATE
+D163,Rajat Gaur,DELEGATE
+D164,Dipayan Chakraborty,DELEGATE
+D165,Vinay Kumar Nassa,DELEGATE
+D166,Arnab Banerjee,DELEGATE
+D167,Pallabi Banerjee,DELEGATE
+D168,Tanay Agarwal,DELEGATE
+D169,Arup Dutta,DELEGATE
+D170,Protim Paul ,DELEGATE
+D171,Pamela SIthar Wangmo,DELEGATE
+D172,Poulomi Paul,DELEGATE
+D173,Arif Hussain,DELEGATE
+D174,Pradip Nag,DELEGATE
+D175,Paramita Das,DELEGATE
+D176,Mr. Arnab Roy,DELEGATE
+D177,Prof Amartya Banerjee,DELEGATE
+D178,Prof Subir Sen,DELEGATE
+D179,Prof Subhasis Maity,DELEGATE
+D180,Prof Milind,DELEGATE
+D181,Prof Alok Satsangi,DELEGATE
+D182,Prof Saujanya Pudi,DELEGATE
+D183,Prof Rina Mitra,DELEGATE
+D184,Prof Tarun Saini,DELEGATE
+D185,Prof Sapptarshi Ghosh,DELEGATE
+D186,Mr. Jayanta Bagchi,DELEGATE
+D187,Ms. Sanjukta Roy,DELEGATE
+D188,Mr. Rajib Sarkar,DELEGATE
+D189,Mr. Janakraj Gupta,DELEGATE
+D190,Mr. Vivek Dudheria,DELEGATE
+D191,Mr. Ramkrishna Ray,DELEGATE
+D192,Ms. Srijaya Dutta,DELEGATE
+D193,Mr. Supriyo Jana,DELEGATE
+D194,Mr. Sanjeev Mitra,DELEGATE
+D195,Mr. Kunal Bhattacharya,DELEGATE
+D196,Mr. Sajal Motilal,DELEGATE
+D197,Mr. Kaushik Rana,DELEGATE
+D198,Prof Bijoy Mondol,DELEGATE
+D199,Prof Sarit Bhattacharya,DELEGATE
+D200,Prof Debanjan Banerjee,DELEGATE
+D201,Prof Maqsood Alam,DELEGATE
+D202,Prof Nilanjana Sinha,DELEGATE
+D203,Prof Prashant Karn,DELEGATE
+D204,Prof Reeti Debnath,DELEGATE
+D205,Prof Anwar Ali,DELEGATE
+D206,Prof. Sharad Seth,DELEGATE
+D207,Mr. Raj Jain,DELEGATE
+D208,Mr. Subhasis Sarkar,DELEGATE
+D209,Ms. Anindita Dasgupta,DELEGATE
+D210,Prof. Rajat De,DELEGATE
+D212,Ms. Piyali Das,DELEGATE
+D213,Mr. Prabhakar Rao,DELEGATE
+D214,Ms. Archana Sharma,DELEGATE
+D216,Ms. Madhubanti Dutta,DELEGATE
+D217,Dr. Chandrima Ganguly,DELEGATE
+D218,Mr. Prayush Poddar,DELEGATE
+D211,Mr. Sourav Ukil,DELEGATE
+D215,Ms. Anamita Biswas,DELEGATE
