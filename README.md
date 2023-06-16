@@ -13,3 +13,6 @@ Step-2: Go to html folder and "q4.py"
 Step-3: Now run "html_jpg.py" at the root ditectory
 
 YOU CAN NOW CHECK ALL THE ID CARDS IN THE 'jpg" FOLDER
+
+<img src="jpg/image_6487327.JPG" width=200>
+
