@@ -1,6 +1,6 @@
 # IDCardGenerator_AnalyticsGlobalConference2023
-
-This the code to Generate Id cards for each the entries in an spreadsheet or csv file
+This the code to Generate Id cards for each the entries in an spreadsheet or csv file.
+### This was used to generate id cards for Analytics Global Conference 2023.
 
 ## How to use the code?
 
@@ -14,5 +14,6 @@ Step-3: Now run "html_jpg.py" at the root ditectory
 
 YOU CAN NOW CHECK ALL THE ID CARDS IN THE 'jpg" FOLDER
 
+# Here is the one of the printed Id card:
 <img src="jpg/image_6487327.JPG" width=200>
 
