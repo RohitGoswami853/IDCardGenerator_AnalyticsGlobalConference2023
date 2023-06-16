@@ -2,6 +2,7 @@
 This the code to Generate Id cards for each the entries in an spreadsheet or csv file.
 
 <img src="jpg/D177.jpg" width=200>
+
 ## How to use the code?
 
 ADD the data to "AGC registered list.csv" file in html folder 
