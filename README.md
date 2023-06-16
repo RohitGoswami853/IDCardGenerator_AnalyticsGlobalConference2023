@@ -1,6 +1,6 @@
 # IDCardGenerator_AnalyticsGlobalConference2023
 This the code to Generate Id cards for each the entries in an spreadsheet or csv file.
-### This was used to generate id cards for Analytics Global Conference 2023.
+
 <img src="jpg/D177.jpg" width=200>
 ## How to use the code?
 
@@ -18,4 +18,7 @@ YOU CAN NOW CHECK ALL THE ID CARDS IN THE 'jpg" FOLDER
 <img src="jpg/image_6487327.JPG" width=200>
 
 # Overview
-I have used
+I have used python libraries: qrcode, cssutils -> Generate the QR code and make the overall design
+
+Then take screenshot of the images and save them in .jpg format using PIL, Selenium libraries
+#
